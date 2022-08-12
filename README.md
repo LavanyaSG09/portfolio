@@ -2,8 +2,7 @@ Hello Everyone
 My portfolio is done..
 you can view my portfolio through,
 
-<a href="
-https://dazzling-douhua-95bc55.netlify.app"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" width=50px height=40px></a>
+<a href="https://dazzling-douhua-95bc55.netlify.app"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" width=50px height=40px></a>
 
 
 
